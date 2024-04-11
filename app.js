@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello test WPL!
     </section>
   </body>
 </html>
